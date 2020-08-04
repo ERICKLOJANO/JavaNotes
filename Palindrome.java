@@ -1,4 +1,4 @@
-class Solution {
+class Palindrome {
     
     //checks if string is empty, if it is then its a palindrome
     public boolean isPalindrome(String str) {
