@@ -1,3 +1,2 @@
 # JavaNotes
-Creating a repository for Java Notes
-Where I can look back and refer to.
+This is a repository where I save important small Java programs that I've encountered in coding challenges.
